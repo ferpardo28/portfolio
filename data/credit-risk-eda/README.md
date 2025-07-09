@@ -6,6 +6,9 @@ This project contains an exploratory data analysis (EDA) on a dataset related to
 
 To explore patterns and relationships in loan applicant data that may be associated with credit default risk. The goal is to support future modeling tasks by understanding variable distributions, correlations, and data quality.
 
+**CRISP-DM Alignment:**  
+This notebook corresponds to the **Data Understanding** phase of the CRISP-DM methodology. It is part of a series of independent exercises, each focused on a different stage of the process using distinct datasets.
+
 ## 🗂️ Dataset
 
 The dataset includes both numerical and categorical features related to:
