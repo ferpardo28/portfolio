@@ -3,12 +3,12 @@
 
 This project focuses on data preparation techniques applied to a survey dataset with both numerical and categorical variables. The goal is to clean and enrich the dataset to support further analysis or modeling efforts.
 
-🧭 **CRISP-DM Alignment:**  
+ **CRISP-DM Alignment:**  
 This notebook demonstrates the **Data Preparation** stage of the CRISP-DM methodology using an independent dataset.
 
 ---
 
-## 📌 Objective
+## Objective
 
 - Clean and explore data from a health-related survey
 - Handle missing values and outliers
@@ -17,7 +17,7 @@ This notebook demonstrates the **Data Preparation** stage of the CRISP-DM method
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The dataset (`responses.csv`) includes:
 
@@ -28,7 +28,7 @@ The dataset (`responses.csv`) includes:
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 - Data inspection: structure, types, summary statistics
 - Handling missing values with visual diagnostics and statistical tests
@@ -38,7 +38,7 @@ The dataset (`responses.csv`) includes:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - The BMI feature shows strong right skewness and significant outliers that were removed
 - Education level appears related to BMI: participants with doctoral degrees tend to have higher BMI
@@ -46,7 +46,7 @@ The dataset (`responses.csv`) includes:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - Pandas, NumPy
@@ -55,13 +55,13 @@ The dataset (`responses.csv`) includes:
 
 ---
 
-## 📁 Files
+## Files
 
 - `preprocessing_bmi_survey.ipynb`: Jupyter notebook with all analysis and code
 - `responses.csv`: Cleaned dataset used in this notebook
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or suggestions, feel free to reach out via GitHub or email.
