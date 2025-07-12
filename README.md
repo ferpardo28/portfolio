@@ -6,7 +6,7 @@ Each project has been carefully reviewed and updated to follow best practices in
 
 ---
 
-## 🗂️ Structure
+##  Structure
 
 This portfolio currently includes:
 ```
@@ -20,12 +20,12 @@ Each project includes:
 
 ---
 
-## 📌 About Me
+## About Me
 
 I have 4+ years of experience in manual QA testing. I'm currently pursuing a Master’s in Applied AI and actively building a technical portfolio to transition into a Data Science role.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/fer-pardo/).
